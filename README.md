@@ -15,5 +15,13 @@ In folder project, run file streamlit.py by use 'python -m streamlit run Streaml
 - Image after process: 
 ![image](https://github.com/dangchau2111/Object_Detection_Web/assets/126049120/af785efa-95ab-4f75-921d-eda4e593c93c)
 
+
+- Upload image:
+![image](https://github.com/dangchau2111/Object_Detection_Web/assets/126049120/ef8bb980-97db-49d8-8b52-27d1469bb721)
+
+- Image after process:
+![image](https://github.com/dangchau2111/Object_Detection_Web/assets/126049120/26996912-d785-4d75-97b6-dbd04672a7e0)
+
+
 ## Thank you!
   
