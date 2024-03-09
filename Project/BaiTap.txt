@@ -1,0 +1,9 @@
+- Dùng streamlit -> làm giao diện
+- Dùng fastapi -> Làm backend
+- Host model onnx
+- Viết readme đây đủ
+- push github
+- Gửi lại anh 
+
+-> Numpy(hiểu được mấy xử lý logic) + opencv + onnx
+-> Không pytorch, pillow
