@@ -1,4 +1,5 @@
 # Object_Detection_Web
+AIO2024 - Đăng Phúc Bảo Châu
 ### Introduction:
 Just a web which can upload an image anh put process button and show the object detection.
 
